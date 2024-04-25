@@ -7,7 +7,7 @@ This is a simple login server built with Node.js and Express.js. It provides aut
 1. Clone the repository:
 
     ```bash
-    git clone git@github.com:aashishkarki11/json-login.git
+    git clone git@github.com:aashishkarki11/login.git
     ```
 
 2. Navigate into the project directory:
