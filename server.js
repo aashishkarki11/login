@@ -28,7 +28,7 @@ app.post('/login', (req, res) => {
     if (user) {
         res.json({ success: true, message: 'Login successful' });
     } else {
-        res.status(401).json({ success: false, message: 'Invalid username or password' });
+        res.status(401).json({ success: false, message: 'Incorrect Password or Username' });
     }
 });
 
